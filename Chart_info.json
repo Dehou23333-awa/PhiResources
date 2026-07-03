@@ -1,6 +1,6 @@
 {
-    "Version": 151,
-    "PhiVersion": "3.19.3",
+    "Version": 152,
+    "PhiVersion": "3.19.4",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -8472,13 +8472,105 @@
             "IN": {
                 "charter": "XMT小咩兔 >w<",
                 "difficulty": "16.5",
-                "md5": "891fe2fc5aa24ba6dc067de21a4e1d55"
+                "md5": "8731ea2b095197b5620dca99889da2b1"
             },
             "music": {
                 "md5": "9adcef47b46f2ba6571ff919d0e3f5c7"
             },
             "ill": {
                 "md5": "b5415acdf284d09cb7891be81d2e1713"
+            }
+        },
+        "GungnirFracture.Kryexe": {
+            "Name": "Gungnir Fracture",
+            "Composer": "Kry.exe",
+            "illustrator": "PEZZ",
+            "chapter": "Single",
+            "previewTime": 102.0,
+            "previewEndTime": 118.0,
+            "EZ": {
+                "charter": "Salt",
+                "difficulty": "6.0",
+                "md5": "da575bd51d9543441a032e2f1d220067"
+            },
+            "HD": {
+                "charter": "Akko",
+                "difficulty": "11.5",
+                "md5": "fd5fa3ce2e622bb932b391c9d52fd628"
+            },
+            "IN": {
+                "charter": "「Barbarianerman AKA. Alloces」Revive",
+                "difficulty": "16.6",
+                "md5": "d105c3bb888e2af5a64d30a6b2282c00"
+            },
+            "music": {
+                "md5": "ff896d24428b799270470cf638f65636"
+            },
+            "ill": {
+                "md5": "4759d622bfe34d92ac6e22f162f539b6"
+            }
+        },
+        "夢の降る日に.seatrus": {
+            "Name": "夢の降る日に",
+            "Composer": "seatrus",
+            "illustrator": "翠冷兮",
+            "chapter": "Single",
+            "previewTime": 42.69,
+            "previewEndTime": 59.31,
+            "EZ": {
+                "charter": "初の赤る澪に",
+                "difficulty": "2.5",
+                "md5": "8e3bdca537fb80d88ab0b07861b8d221"
+            },
+            "HD": {
+                "charter": "初の赤る澪に",
+                "difficulty": "9.8",
+                "md5": "5410dd8b736a68717df290d8939c8c1c"
+            },
+            "IN": {
+                "charter": "浪の降る日に",
+                "difficulty": "16.6",
+                "md5": "11a630cfcacdeb67417331052dcff5ef"
+            },
+            "music": {
+                "md5": "56cc8baca97fc0a737d00981bdc90ba3"
+            },
+            "ill": {
+                "md5": "4ec1cbc9f92bc9f09912d3656d5f30b0"
+            }
+        },
+        "DerSchneid.Ωμεγα": {
+            "Name": "Der Schneid",
+            "Composer": "Ωμεγα",
+            "illustrator": "群青kurara feat. 祈莲 & 夏宇Detristy",
+            "chapter": "Single",
+            "previewTime": 70.0,
+            "previewEndTime": 107.0,
+            "EZ": {
+                "charter": "Der Mut und der Richter",
+                "difficulty": "7.0",
+                "md5": "09184271aadcfabc9e25696037560f24"
+            },
+            "HD": {
+                "charter": "Der Mut und der Richter",
+                "difficulty": "11.9",
+                "md5": "4f50432aa4104f926c56ac4a2ec94a8d"
+            },
+            "IN": {
+                "charter": "Der Mut und der Richter",
+                "difficulty": "16.1",
+                "md5": "6eddb6fdfb29b5568bc6dda9eae2c1fc"
+            },
+            "AT": {
+                "charter": "Gegenmacht der Lords",
+                "difficulty": "17.5",
+                "md5": "4764d19762cfbc93494e5e8e9b9b2b93"
+            },
+            "music": {
+                "md5": "8e64c2a9fa9f743dc34e7952459ee431"
+            },
+            "ill": {
+                "md5": "bc6665e32975534daa0b33457ac888a6"
             }
         },
         "Poseidon.1112vsStar": {
