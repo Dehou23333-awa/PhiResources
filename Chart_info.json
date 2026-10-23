@@ -1,6 +1,6 @@
 {
-    "Version": 159,
-    "PhiVersion": "4.0.1.1",
+    "Version": 160,
+    "PhiVersion": "4.0.1.2",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -1415,7 +1415,7 @@
             "HD": {
                 "charter": "Crossing the Threshold",
                 "difficulty": "13.7",
-                "md5": "6970a8a0be6f3703a68f4e12fe8ca95e"
+                "md5": "b04bc0d3abdddeb3a96326137b65dd4a"
             },
             "IN": {
                 "charter": "Descending the Abyss",
