@@ -1,6 +1,6 @@
 {
-    "Version": 160,
-    "PhiVersion": "4.0.1.2",
+    "Version": 161,
+    "PhiVersion": "4.1.0",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -2512,17 +2512,17 @@
             "previewTime": 14.63,
             "previewEndTime": 34.1,
             "EZ": {
-                "charter": "Phigros Charting Team",
+                "charter": "Phigros Chart Team",
                 "difficulty": "4.5",
                 "md5": "20aea260bf9d70b5f8c7cef8cb51df4f"
             },
             "HD": {
-                "charter": "Phigros Charting Team",
+                "charter": "Phigros Chart Team",
                 "difficulty": "12.3",
                 "md5": "42f272ad74b5177853ef9cea1ab7ec2c"
             },
             "IN": {
-                "charter": "Phigros Charting Team",
+                "charter": "Phigros Chart Team",
                 "difficulty": "14.4",
                 "md5": "c3face43c9676514f3103adafc13ab0f"
             },
@@ -3866,7 +3866,7 @@
                 "md5": "89f748cb0421847e91e4a32e8239f9eb"
             },
             "IN": {
-                "charter": "Phigros Charting Team",
+                "charter": "Phigros Chart Team",
                 "difficulty": "15.6",
                 "md5": "e44e3584b5a55be65a8ac0448a281e69"
             },
@@ -5871,6 +5871,11 @@
                 "charter": "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁",
                 "difficulty": "15.5",
                 "md5": "450b4aac7762a6ec3adc103dcbd674ba"
+            },
+            "AT": {
+                "charter": "ʇǝzɐɓɐW",
+                "difficulty": "16.5",
+                "md5": "473eafadb52ac0f0b5d69e74275862b1"
             },
             "music": {
                 "md5": "e6e60baf293e02cd40a620cc2a23179d"
@@ -8966,6 +8971,69 @@
                 "md5": "d4de875a3ec480fa6361acaf55e4c476"
             }
         },
+        "OMG.DopamnevszEnsEn": {
+            "Name": "OMG",
+            "Composer": "Dopam!ne vs zEnsEn",
+            "illustrator": "古テ壱",
+            "chapter": "TAKUMI³",
+            "previewTime": 39.28,
+            "previewEndTime": 54.38,
+            "EZ": {
+                "charter": "Akko",
+                "difficulty": "3.5",
+                "md5": "25410c3b0688ecf0c983f61330cb07b7"
+            },
+            "HD": {
+                "charter": "Akko",
+                "difficulty": "8.6",
+                "md5": "2790954e35426897f566b744fc7c3570"
+            },
+            "IN": {
+                "charter": "MAS",
+                "difficulty": "15.2",
+                "md5": "336c42468f0e4aad4a6cefbb38163971"
+            },
+            "music": {
+                "md5": "bf3bb5df2152b1123a62d56bb35f3bb3"
+            },
+            "ill": {
+                "md5": "4de9f2562c502803e836dc5ca87faf20"
+            }
+        },
+        "STARGAZERS.proxime": {
+            "Name": "STARGAZERS",
+            "Composer": "proxime()",
+            "illustrator": "57_dayo [edited by Stelli]",
+            "chapter": "vivid/stasis",
+            "previewTime": 75.0,
+            "previewEndTime": 97.0,
+            "EZ": {
+                "charter": "Phigros Chart Team",
+                "difficulty": "5.5",
+                "md5": "708d3947062985b232627198dcc69c13"
+            },
+            "HD": {
+                "charter": "Phigros Chart Team",
+                "difficulty": "11.4",
+                "md5": "c889ad0f06e8e3fc20e07aab3a2288ad"
+            },
+            "IN": {
+                "charter": "Phigros Chart Team",
+                "difficulty": "16.3",
+                "md5": "eabfb8eb036a0f78c542427f3f1d9c66"
+            },
+            "AT": {
+                "charter": "Phigros Chart Team",
+                "difficulty": "17.3",
+                "md5": "a033a7d5df45dddb992384ad1cd59406"
+            },
+            "music": {
+                "md5": "c00ffc7a03b75d347adb2ca2393d41f1"
+            },
+            "ill": {
+                "md5": "fc01b873f8b632c057ec2d91634e6b33"
+            }
+        },
         "Poseidon.1112vsStar": {
             "Name": "Ποσειδών",
             "Composer": "1112 vs. Star＊",
@@ -9612,175 +9680,12 @@
         }
     },
     "OnlyAssets": {
-        "Random.SobremSilentroom.1": {
-            "IN": {
-                "md5": "b0604a91ef162596af00a380007beb03"
-            },
-            "HD": {
-                "md5": "fd1d9210de7cc5ee317b69a30cbb35f6"
-            },
-            "EZ": {
-                "md5": "268b03a5b4894e276e17229d8e1b9655"
-            },
-            "music": {
-                "md5": "ddc0e9f3f8463d2af8d6175c00e49c82"
-            }
-        },
-        "BreakThroughTheBarrier.lixound.0": {
-            "IN": {
-                "md5": "2caea09e9ad440b903ccc9b784253e14"
-            },
-            "HD": {
-                "md5": "0fef73a21c6f604386b5eaef782eb2bc"
-            },
-            "EZ": {
-                "md5": "1326f568e686d4977031eee4c493d2b7"
-            },
-            "music": {
-                "md5": "ae4d59c56e005f2a9895468c38dbc1a0"
-            },
-            "ill": {
-                "md5": "f8a1a0496668f0fbbf2552f3a1fe1f6a"
-            }
-        },
-        "Random.SobremSilentroom.3": {
-            "IN": {
-                "md5": "f8fd0235c6da0143b2053f9cff28e483"
-            },
-            "HD": {
-                "md5": "9d242a7e6112f92e3160427e7dd6b89f"
-            },
-            "EZ": {
-                "md5": "4142a7e33aff60c2983527a9e716ec2f"
-            },
-            "music": {
-                "md5": "2a6505c2713e9ebfef5cda81538a38ef"
-            }
-        },
-        "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
-            "AT": {
-                "md5": "78218a69313189ad1adc591b91055673"
-            },
-            "IN": {
-                "md5": "6db1882ec1b0a4c873fdc1e1589b8f5d"
-            },
-            "HD": {
-                "md5": "ba9c2537370841e7d49061b6dbf303dd"
-            },
-            "EZ": {
-                "md5": "f3c0b29326baa966a32519ca59f4e290"
-            },
-            "music": {
-                "md5": "9ac0c3e8e8dec5e59e3ee46285b8c466"
-            },
-            "ill": {
-                "md5": "c1e40397bd7a0dc56138e3b08ba76218"
-            }
-        },
-        "Random.SobremSilentroom.6": {
-            "IN": {
-                "md5": "425e741380d1249f4386ea15069a12f7"
-            },
-            "HD": {
-                "md5": "575e6c0c723a4ead202e0eb09e4c3b8f"
-            },
-            "EZ": {
-                "md5": "35d21d4395a1c4f0df20fe9c0c953f53"
-            },
-            "music": {
-                "md5": "2c355b11b242cb78bd6b0afc6466e316"
-            }
-        },
-        "Random.SobremSilentroom.2": {
-            "IN": {
-                "md5": "900090f5bdfd212d979ee8c041c7b078"
-            },
-            "HD": {
-                "md5": "b05b08faa67655f8ca8f684786fb40f7"
-            },
-            "EZ": {
-                "md5": "fffe2ec1f2e78dea43063b67aacd3f6d"
-            },
-            "music": {
-                "md5": "4ea2a86d0abc2c5fe6519d5b26f9b3a0"
-            }
-        },
-        "ENERGYSYNERGYMATRIX.Tanchiky.0": {
-            "IN": {
-                "md5": "e7c45864ea62b1193e534f7dc7a49b9f"
-            },
-            "HD": {
-                "md5": "3e751095f2682dcb8e72d6e000522f1b"
-            },
-            "EZ": {
-                "md5": "7f0fbe938404a2865dc8fce8ba17c828"
-            },
-            "music": {
-                "md5": "5f941941449b92b109b9cd358ad398e9"
-            },
-            "ill": {
-                "md5": "bf49d831ebe728322079f78aa62253a4"
-            }
-        },
-        "Random.SobremSilentroom.5": {
-            "IN": {
-                "md5": "95a51d49fd2f52d680220ee4b7395e39"
-            },
-            "HD": {
-                "md5": "b3e49e5a001f367e123c55cffabefe5c"
-            },
-            "EZ": {
-                "md5": "eadfbcb51bb48afc27d2e2da163e744d"
-            },
-            "music": {
-                "md5": "42374028635e471eeab45872e2125eb3"
-            }
-        },
-        "Lyrith迷宮リリス.ユメミド.0": {
-            "AT": {
-                "md5": "bb5f63d8af3cc963fb8671ebb46ebba2"
-            },
-            "IN": {
-                "md5": "f8d092c8c6642da57490be93292a202b"
-            },
-            "HD": {
-                "md5": "5b638be10e516c0694d4d895430d3305"
-            },
-            "EZ": {
-                "md5": "d8c68de1eedf1b30b7f55d36ac41e2ca"
-            },
-            "music": {
-                "md5": "3d54e1afbaff0884fcb0aeeb0e508237"
-            },
-            "ill": {
-                "md5": "a7580e05f4ed01df30160377b5fe4379"
-            }
-        },
-        "Random.SobremSilentroom.4": {
-            "IN": {
-                "md5": "2844eed1acf51e127152b6bc7c106bd2"
-            },
-            "HD": {
-                "md5": "719d0d98515c89969ae87e56af835ba9"
-            },
-            "EZ": {
-                "md5": "06e809e7652fa042b938aacabd7393c9"
-            },
-            "music": {
-                "md5": "323bd859c55e61eb58aa840b8f546ab7"
-            }
-        },
-        "Introduction": {
-            "EZ": {
-                "md5": "75a59c2d205d8809de9081729dd5a783"
-            }
-        },
         "Aleph0.LeaF.0": {
-            "IN": {
-                "md5": "1b2d24cadcfc7470a025bfb61bec87c3"
-            },
             "HD": {
                 "md5": "bea318dad3b44d480340282e66893be9"
+            },
+            "IN": {
+                "md5": "1b2d24cadcfc7470a025bfb61bec87c3"
             },
             "EZ": {
                 "md5": "d07feb80bd012c606d5d438df15f3e10"
@@ -9792,14 +9697,167 @@
                 "md5": "fb830d549f9a389e3b685dc8f7d80720"
             }
         },
-        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい_HD": {
+        "BreakThroughTheBarrier.lixound.0": {
+            "HD": {
+                "md5": "0fef73a21c6f604386b5eaef782eb2bc"
+            },
+            "IN": {
+                "md5": "2caea09e9ad440b903ccc9b784253e14"
+            },
+            "EZ": {
+                "md5": "1326f568e686d4977031eee4c493d2b7"
+            },
+            "music": {
+                "md5": "ae4d59c56e005f2a9895468c38dbc1a0"
+            },
             "ill": {
-                "md5": "62bd20e3fefdb798803d2e976b4bc923"
+                "md5": "f8a1a0496668f0fbbf2552f3a1fe1f6a"
             }
         },
-        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい_IN": {
+        "Introduction": {
+            "EZ": {
+                "md5": "75a59c2d205d8809de9081729dd5a783"
+            }
+        },
+        "Random.SobremSilentroom.3": {
+            "HD": {
+                "md5": "9d242a7e6112f92e3160427e7dd6b89f"
+            },
+            "IN": {
+                "md5": "f8fd0235c6da0143b2053f9cff28e483"
+            },
+            "EZ": {
+                "md5": "4142a7e33aff60c2983527a9e716ec2f"
+            },
+            "music": {
+                "md5": "2a6505c2713e9ebfef5cda81538a38ef"
+            }
+        },
+        "Random.SobremSilentroom.6": {
+            "HD": {
+                "md5": "575e6c0c723a4ead202e0eb09e4c3b8f"
+            },
+            "IN": {
+                "md5": "425e741380d1249f4386ea15069a12f7"
+            },
+            "EZ": {
+                "md5": "35d21d4395a1c4f0df20fe9c0c953f53"
+            },
+            "music": {
+                "md5": "2c355b11b242cb78bd6b0afc6466e316"
+            }
+        },
+        "Random.SobremSilentroom.5": {
+            "HD": {
+                "md5": "b3e49e5a001f367e123c55cffabefe5c"
+            },
+            "IN": {
+                "md5": "95a51d49fd2f52d680220ee4b7395e39"
+            },
+            "EZ": {
+                "md5": "eadfbcb51bb48afc27d2e2da163e744d"
+            },
+            "music": {
+                "md5": "42374028635e471eeab45872e2125eb3"
+            }
+        },
+        "ENERGYSYNERGYMATRIX.Tanchiky.0": {
+            "HD": {
+                "md5": "3e751095f2682dcb8e72d6e000522f1b"
+            },
+            "IN": {
+                "md5": "e7c45864ea62b1193e534f7dc7a49b9f"
+            },
+            "EZ": {
+                "md5": "7f0fbe938404a2865dc8fce8ba17c828"
+            },
+            "music": {
+                "md5": "5f941941449b92b109b9cd358ad398e9"
+            },
             "ill": {
-                "md5": "e9bc07148b43edbb11184c9fc53e7ff7"
+                "md5": "bf49d831ebe728322079f78aa62253a4"
+            }
+        },
+        "Random.SobremSilentroom.4": {
+            "HD": {
+                "md5": "719d0d98515c89969ae87e56af835ba9"
+            },
+            "IN": {
+                "md5": "2844eed1acf51e127152b6bc7c106bd2"
+            },
+            "EZ": {
+                "md5": "06e809e7652fa042b938aacabd7393c9"
+            },
+            "music": {
+                "md5": "323bd859c55e61eb58aa840b8f546ab7"
+            }
+        },
+        "Random.SobremSilentroom.2": {
+            "HD": {
+                "md5": "b05b08faa67655f8ca8f684786fb40f7"
+            },
+            "IN": {
+                "md5": "900090f5bdfd212d979ee8c041c7b078"
+            },
+            "EZ": {
+                "md5": "fffe2ec1f2e78dea43063b67aacd3f6d"
+            },
+            "music": {
+                "md5": "4ea2a86d0abc2c5fe6519d5b26f9b3a0"
+            }
+        },
+        "Lyrith迷宮リリス.ユメミド.0": {
+            "HD": {
+                "md5": "5b638be10e516c0694d4d895430d3305"
+            },
+            "IN": {
+                "md5": "f8d092c8c6642da57490be93292a202b"
+            },
+            "AT": {
+                "md5": "bb5f63d8af3cc963fb8671ebb46ebba2"
+            },
+            "EZ": {
+                "md5": "d8c68de1eedf1b30b7f55d36ac41e2ca"
+            },
+            "music": {
+                "md5": "3d54e1afbaff0884fcb0aeeb0e508237"
+            },
+            "ill": {
+                "md5": "a7580e05f4ed01df30160377b5fe4379"
+            }
+        },
+        "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
+            "HD": {
+                "md5": "ba9c2537370841e7d49061b6dbf303dd"
+            },
+            "IN": {
+                "md5": "6db1882ec1b0a4c873fdc1e1589b8f5d"
+            },
+            "AT": {
+                "md5": "78218a69313189ad1adc591b91055673"
+            },
+            "EZ": {
+                "md5": "f3c0b29326baa966a32519ca59f4e290"
+            },
+            "music": {
+                "md5": "9ac0c3e8e8dec5e59e3ee46285b8c466"
+            },
+            "ill": {
+                "md5": "c1e40397bd7a0dc56138e3b08ba76218"
+            }
+        },
+        "Random.SobremSilentroom.1": {
+            "HD": {
+                "md5": "fd1d9210de7cc5ee317b69a30cbb35f6"
+            },
+            "IN": {
+                "md5": "b0604a91ef162596af00a380007beb03"
+            },
+            "EZ": {
+                "md5": "268b03a5b4894e276e17229d8e1b9655"
+            },
+            "music": {
+                "md5": "ddc0e9f3f8463d2af8d6175c00e49c82"
             }
         },
         "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい_AT": {
@@ -9810,6 +9868,16 @@
         "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい_EZ": {
             "ill": {
                 "md5": "71d8645c48f7c3b740222d22c1dada56"
+            }
+        },
+        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい_HD": {
+            "ill": {
+                "md5": "62bd20e3fefdb798803d2e976b4bc923"
+            }
+        },
+        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい_IN": {
+            "ill": {
+                "md5": "e9bc07148b43edbb11184c9fc53e7ff7"
             }
         }
     },
