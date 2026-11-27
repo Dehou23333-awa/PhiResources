@@ -1,6 +1,6 @@
 {
-    "Version": 161,
-    "PhiVersion": "4.1.0",
+    "Version": 162,
+    "PhiVersion": "4.1.0.1",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -6967,7 +6967,7 @@
             "Name": "Fixations Toward the Stars",
             "Composer": "Foodbot",
             "illustrator": "AriaL [edited by Stelli]",
-            "chapter": "Single",
+            "chapter": "vivid/stasis",
             "previewTime": 102.0,
             "previewEndTime": 127.0,
             "EZ": {
@@ -6996,7 +6996,7 @@
             "Name": "valor/starcross",
             "Composer": "Lundy vs. Wyvren",
             "illustrator": "AriaL & 57_dayo [edited by Stelli]",
-            "chapter": "Single",
+            "chapter": "vivid/stasis",
             "previewTime": 111.1,
             "previewEndTime": 132.95,
             "EZ": {
@@ -8991,7 +8991,7 @@
             "IN": {
                 "charter": "MAS",
                 "difficulty": "15.2",
-                "md5": "336c42468f0e4aad4a6cefbb38163971"
+                "md5": "d16dd0e7db0c458ac3d6e0d1426350ec"
             },
             "music": {
                 "md5": "bf3bb5df2152b1123a62d56bb35f3bb3"
@@ -9015,17 +9015,17 @@
             "HD": {
                 "charter": "Phigros Chart Team",
                 "difficulty": "11.4",
-                "md5": "c889ad0f06e8e3fc20e07aab3a2288ad"
+                "md5": "907fee0dcbc9d47c6851d3080bcc9aac"
             },
             "IN": {
                 "charter": "Phigros Chart Team",
                 "difficulty": "16.3",
-                "md5": "eabfb8eb036a0f78c542427f3f1d9c66"
+                "md5": "3a97ea78ac882522e38ea1a9ee311ea8"
             },
             "AT": {
                 "charter": "Phigros Chart Team",
                 "difficulty": "17.3",
-                "md5": "a033a7d5df45dddb992384ad1cd59406"
+                "md5": "9c3b510577d8b8fcfe90d1b5bec004e5"
             },
             "music": {
                 "md5": "c00ffc7a03b75d347adb2ca2393d41f1"
